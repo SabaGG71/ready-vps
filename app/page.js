@@ -16,7 +16,7 @@ export default function Home() {
           <li className="mb-2 tracking-[-.01em]">
             We Connected To Ubuntu Server
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              I Am Saba
+              I Am Saba Gachecheiladze thsi is the new text 📉
             </code>
             .
           </li>
